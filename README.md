@@ -26,3 +26,6 @@ Here is some intro about the project
 Here is some intro about the project
 Here is some intro about the project
 Here is some intro about the project
+
+### Copyright
+I dont own any of these
