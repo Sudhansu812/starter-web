@@ -1,1 +1,3 @@
 somethingToIgnore.txt
+*.log
+log/
